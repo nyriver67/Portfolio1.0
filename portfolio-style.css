@@ -1,0 +1,19 @@
+
+ body{
+    font-family: "Georgia", sans-serif;
+ }
+
+ .font-primary{
+    color: orange;
+}
+
+body{
+    background-color:#4683AE;
+    
+}
+
+
+.title-icon{
+    font-size:40px;
+    font-weight: 700;
+}
